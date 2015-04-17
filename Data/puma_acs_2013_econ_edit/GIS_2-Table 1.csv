@@ -1,0 +1,61 @@
+,,,,,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households
+Boro,DCP_Boro,PUMA_ID,CD_Label,CD_Name,HHE
+005,2,3701,8,"Riverdale, Fieldston & Kingsbridge",40630
+005,2,3702,12,"Wakefield, Williamsbridge & Woodlawn",46905
+005,2,3703,10,"Co-op City, Pelham Bay & Schuylerville",45466
+005,2,3704,11,"Pelham Parkway, Morris Park & Laconia",43093
+005,2,3705,3,"Belmont, Crotona Park East & East Tremont",54210
+005,2,3705,6,"Belmont, Crotona Park East & East Tremont",54210
+005,2,3706,7,"Bedford Park, Fordham North & Norwood",41714
+005,2,3707,5,"Morris Heights, Fordham South & Mount Hope",44093
+005,2,3708,4,"Concourse, Highbridge & Mount Eden",46832
+005,2,3709,9,"Castle Hill, Clason Point & Parkchester",62950
+005,2,3710,2,"Hunts Point, Longwood & Melrose",48810
+005,2,3710,1,"Hunts Point, Longwood & Melrose",48810
+061,1,3801,12,"Washington Heights, Inwood & Marble Hill",70214
+061,1,3802,9,"Hamilton Heights, Manhattanville & West Harlem",45736
+061,1,3803,10,Central Harlem,52951
+061,1,3804,11,East Harlem,44768
+061,1,3805,8,Upper East Side,115522
+061,1,3806,7,Upper West Side & West Side,97034
+061,1,3807,4,"Chelsea, Clinton & Midtown Business Distric",82072
+061,1,3807,5,"Chelsea, Clinton & Midtown Business Distric",82072
+061,1,3808,6,"Murray Hill, Gramercy & Stuyvesant Town",79449
+061,1,3809,3,Chinatown & Lower East Side,69780
+061,1,3810,1,"Battery Park City, Greenwich Village & Soho",76534
+061,1,3810,2,"Battery Park City, Greenwich Village & Soho",76534
+085,5,3901,3,"Tottenville, Great Kills & Annadale",57220
+085,5,3902,2,New Springville & South Beach,46919
+085,5,3903,1,"Port Richmond, Stapleton & Mariner's Harbor",60237
+047,3,4001,1,Greenpoint & Williamsburg,60608
+047,3,4002,4,Bushwick,44787
+047,3,4003,3,Bedford-Stuyvesant,49212
+047,3,4004,2,Brooklyn Heights & Fort Greene,53813
+047,3,4005,6,"Park Slope, Carroll Gardens & Red Hook",48185
+047,3,4006,8,Crown Heights North & Prospect Heights,50355
+047,3,4007,16,Brownsville & Ocean Hill,42706
+047,3,4008,5,East New York & Starrett City,51081
+047,3,4009,18,Canarsie & Flatlands,66367
+047,3,4010,17,"East Flatbush, Farragut & Rugby",46768
+047,3,4011,9,"Crown Heights South, Prospect Lefferts & Wingate",40043
+047,3,4012,7,Sunset Park & Windsor Terrace,46196
+047,3,4013,10,Bay Ridge & Dyker Heights,49563
+047,3,4014,12,"Borough Park, Kensington & Ocean Parkway",46080
+047,3,4015,14,Flatbush & Midwood,55887
+047,3,4016,15,"Sheepshead Bay, Gerritsen Beach & Homecrest",56561
+047,3,4017,11,Bensonhurst & Bath Beach,62922
+047,3,4018,13,Brighton Beach & Coney Island,44264
+081,4,4101,1,Astoria & Long Island City,73067
+081,4,4102,3,Jackson Heights & North Corona,56575
+081,4,4103,7,"Flushing, Murray Hill & Whitestone",87060
+081,4,4104,11,"Bayside, Douglaston & Little Neck",43582
+081,4,4105,13,"Queens Village, Cambria Heights & Rosedale",59982
+081,4,4106,8,"Briarwood, Fresh Meadows & Hillcrest",53481
+081,4,4107,4,Elmhurst & South Corona,43991
+081,4,4108,6,Forest Hills & Rego Park,52420
+081,4,4109,2,Sunnyside & Woodside,51635
+081,4,4110,5,"Ridgewood, Glendale & Middle Village",61909
+081,4,4111,9,Richmond Hill & Woodhaven,45632
+081,4,4112,12,"Jamaica, Hollis & St. Albans",70625
+081,4,4113,10,Howard Beach & Ozone Park,39006
+081,4,4114,14,"Far Rockaway, Breezy Point & Broad Channel",38795
